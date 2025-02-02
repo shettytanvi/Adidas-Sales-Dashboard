@@ -39,7 +39,6 @@ Evaluate the average margin to understand the overall profitability of sales.
 ***************************************************
 
 
-
 # Problem Statement
 
 Chart Requirements
@@ -63,5 +62,8 @@ Analyse the sales distribution among various Adidas products using a bar chart.
 Total sales by retailer (Bar Chart):
 
 Visualise the contribution of different retailer to total sales   using a bar chart.
+
+![image](https://github.com/user-attachments/assets/62355e65-c5f4-4a79-a9aa-a4034fbd23b7)
+
 
 
